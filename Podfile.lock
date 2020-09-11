@@ -1,0 +1,20 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - ReachabilitySwift (4.3.1)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - ReachabilitySwift (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+
+PODFILE CHECKSUM: 180c7ae635b69af69a855b252d10f772c3b5e12f
+
+COCOAPODS: 1.9.3
